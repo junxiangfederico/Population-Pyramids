@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Cos'è una "population pyramid"}{2}{}%
+\contentsline {section}{\numberline {2}I dati necessari per costruire una "population pyramid"}{3}{}%
+\contentsline {section}{\numberline {3}Esempio di costruzione utilizzando python}{3}{}%
+\contentsline {section}{\numberline {4}Cosa ci dice una "population pyramid"}{5}{}%
+\contentsline {subsection}{\numberline {4.1}Un'appendice sull'età}{5}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Perché l'età è un indicatore così importante}{5}{}%
